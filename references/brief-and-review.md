@@ -14,7 +14,7 @@
 - 触ってはいけない: <明示。範囲外の改変を防ぐ>
 
 ## このリポジトリの前提(まず読め)
-- <規約ファイルのパス。例: CLAUDE.md / .claude/skills/<x>/SKILL.md / voice.md>
+- <規約ファイルのパス。例: CLAUDE.md / .claude/skills/<x>/SKILL.md / knowledge/voice.md>
   ※ 全文は貼らない。パスを渡して subagent 自身に読ませる(その読解トークンは親に返らない)
 
 ## 受け入れ基準(すべて満たすまで直してから報告)
